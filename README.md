@@ -1,2 +1,2 @@
-# milestone-3-Dynamic-resume-builder
-A Dynamic Resume Builder
+# Milestone3_Dynamic-Resume-Builder-with-Form
+Milestone 3_ Dynamic Resume Builder with Form
